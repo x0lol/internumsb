@@ -1,0 +1,5 @@
+-e input/tokens.txt
+data/uid.json
+input/developers.json
+__pycache__
+*.pyc

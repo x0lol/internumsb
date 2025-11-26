@@ -1,0 +1,8 @@
+{
+    "colors": {
+        "main": "\u001b[1;34m",
+        "sub": "\u001b[1;30m",
+        "reset": "\u001b[0m"
+    },
+    "prefix": ">"
+}
